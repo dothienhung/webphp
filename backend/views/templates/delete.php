@@ -1,0 +1,1 @@
+<a href="index.php?controller=Post&action=getAllPost">Back to home</a>
